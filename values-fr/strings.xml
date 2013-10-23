@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+<string formatter="false" name="hello_world">Bonjour tout le monde!</string>
+<string name="menu_settings">Je suis %s </string>
+</resources>
